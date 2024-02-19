@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm RAHEEMUDHEEN</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
-![Uploading coding_life.gif…]()
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raheemudheen-ma&label=Profile%20views&color=0e75b6&style=flat" alt="raheemudheen-ma" /> </p>
 
 - 🌱 I’m currently learning **Next js**
