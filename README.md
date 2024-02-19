@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer</h3>
 
 ![coding_life](https://github.com/RAHEEMUDHEEN-MA/RAHEEMUDHEEN-MA/assets/136678042/51e5d83b-9fb3-42a0-b607-865eb4783399)
-<img src="https://github.com/RAHEEMUDHEEN-MA/RAHEEMUDHEEN-MA/assets/136678042/51e5d83b-9fb3-42a0-b607-865eb4783399" height="100px"/>
+<img src="https://github.com/RAHEEMUDHEEN-MA/RAHEEMUDHEEN-MA/assets/136678042/51e5d83b-9fb3-42a0-b607-865eb4783399" height="500px"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raheemudheen-ma&label=Profile%20views&color=0e75b6&style=flat" alt="raheemudheen-ma" /> </p>
 
