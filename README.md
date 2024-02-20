@@ -9,7 +9,7 @@
 
 
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **TypeScript**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/RAHEEMUDHEEN-MA](https://github.com/RAHEEMUDHEEN-MA)
